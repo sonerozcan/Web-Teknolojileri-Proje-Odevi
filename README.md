@@ -8,7 +8,7 @@
 - Kişisel bilgiler, ilgi alanları vb. bilgilerin bulunduğu sayfa.
 
 ### Özgeçmiş
-- Semantig tagler kullanılarak oluşturulmuş CV nitleğinde sayfa
+- Samantic tagler kullanılarak oluşturulmuş CV nitleğinde sayfa
 
 ### Şehrim Sayfası
 - Memlekete dair bilgiler
