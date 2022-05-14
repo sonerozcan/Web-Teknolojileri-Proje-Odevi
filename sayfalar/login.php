@@ -49,12 +49,9 @@
                 </nav>
                 
                 <div class=\"container py-5\">
-                    <div class=\"row\">
-                        
                         <h5>Hoşgeldiniz b211210023</h5>
+						<br>
                         <p class=\"m-auto\">Yönlendiriliyorsunuz...</p>
-                       
-                    </div>
                 </div>
                 
             </body>
@@ -113,12 +110,10 @@
                 </nav>
                 
                 <div class=\"container py-5\">
-                    <div class=\"row\">
-                        
                         <h5>Giriş başarısız!</h5>
+						<br>
                         <p class=\"m-auto\">Yönlendiriliyorsunuz...</p>
-                       
-                    </div>
+
                 </div>
                 
             </body>

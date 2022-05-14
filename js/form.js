@@ -13,7 +13,7 @@ fetch('https://streamlinewatch-streaming-guide.p.rapidapi.com/movies?region=US&s
 			const name = element.original_title;
             const poster = "https://image.tmdb.org/t/p/w300/"+element.poster_path;
 			const ov = element.overview;
-            const movie = `<div class="card" style="width: 18rem;"> <img class="card-img-top" src="${poster}"> <div class="card-body"> <h5 class="card-title">${name}</h5> <p class="card-text">${ov}</p></div> </div>`
+            const movie = `<div class="card mx-auto" style="width: 18rem;"> <img class="card-img-top" src="${poster}"> <div class="card-body"> <h5 class="card-title">${name}</h5> <p class="card-text">${ov}</p></div> </div>`
 	        document.querySelector('.movies').innerHTML += movie;
 		});
 	})
