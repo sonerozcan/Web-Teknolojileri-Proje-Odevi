@@ -1,3 +1,7 @@
+body{
+    background-color: #f5f5f5;
+}
+
 #link:hover{
     color: gray;
 }
@@ -19,6 +23,6 @@ nav li{
     margin-left: 1%;
 }
 
-/*body{
-    background-image: linear-gradient(#f5f7fa,#d4d6dd);
-}*/
+.form-signin{
+    margin-top:12%;
+}
